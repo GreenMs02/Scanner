@@ -16,7 +16,7 @@
 #include <stdio.h>
 
 using namespace std;
-#define scanaddr(addr)(addr - 0x400000 + (int)GetModuleHandle(0))
+#define ScanAddress(addr)(addr - 0x400000 + (int)GetModuleHandle(0))
 
 namespace Scanner {
 	namespace Process {
