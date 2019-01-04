@@ -18,7 +18,7 @@ Usage:
 
 - Scanner::Process::GetPID("RobloxPlayerBeta.exe") // Will return PID of process
 
-- Scanner::Process:Kill("RobloxPlayerBeta.exe") // Kill proccess by filename
+- Scanner::Process::Kill("RobloxPlayerBeta.exe") // Kill proccess by filename
 
 # Scanner::AOB
 
